@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pelin Buçukoğlu</h1>
+<h1 align="center">Hi 👋, I'm Pelin</h1>
 <h3 align="center">AI & Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **Big Data Analytics**
